@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "Loans":[
+      {
+         "id":"0922359013",
+         "accountNickname":"Préstamo de consumo Familoa",
+         "loanNumber":"XXXXX2391",
+         "accountStatus":"ACTIVE",
+         "lastStatementBalanceAmount":2750,
+         "currencyCode":"COL",
+         "accountNumber":"XXXXX2391",
+         "minimuPaymentAmount":"",
+         "minimumPaymentDueDate":2162018,
+         "outstandingBalanceAmount":0,
+         "paymentDueDate":0,
+         "productName":"Banco Agrario Premier"
+      }
+   ]
 }
